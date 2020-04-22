@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>落思</title>
+  
+  <subtitle>苹果面向界面开发工程师👨‍💻，喜欢数码、软件、文字。有自己的想法，不想成为工具人🤖。还要努力努力再努力啊🌟!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://armszhou.github.io/"/>
+  <updated>2020-04-22T10:01:12.000Z</updated>
+  <id>https://armszhou.github.io/</id>
+  
+  <author>
+    <name>Arms Chow</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 插件推荐</title>
+    <link href="https://armszhou.github.io/2020/04/22/%E6%9D%82%E8%AE%B0-%E6%8A%98%E8%85%BE-2020-04-22-hexo-plug-in/"/>
+    <id>https://armszhou.github.io/2020/04/22/%E6%9D%82%E8%AE%B0-%E6%8A%98%E8%85%BE-2020-04-22-hexo-plug-in/</id>
+    <published>2020-04-22T10:01:12.000Z</published>
+    <updated>2020-04-22T10:01:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><a href="https://blog.eson.org/pub/e2f6e239/" target="_blank" rel="noopener">日志的自动分类插件</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.eson.org/pub/e2f6e239/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;日志的自动分类插件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="杂记" scheme="https://armszhou.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+      <category term="折腾" scheme="https://armszhou.github.io/categories/%E6%9D%82%E8%AE%B0/%E6%8A%98%E8%85%BE/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《程序员修炼之道-通向务实的最高境界》读记</title>
+    <link href="https://armszhou.github.io/2020/04/22/%E8%AF%BB%E4%B9%A6-%E8%AE%A1%E7%AE%97%E6%9C%BA-2020-04-22-Pragmatic-Programmer/"/>
+    <id>https://armszhou.github.io/2020/04/22/%E8%AF%BB%E4%B9%A6-%E8%AE%A1%E7%AE%97%E6%9C%BA-2020-04-22-Pragmatic-Programmer/</id>
+    <published>2020-04-22T09:35:28.000Z</published>
+    <updated>2020-04-22T09:35:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img3.doubanio.com/view/subject/s/public/s33607450.jpg" alt=""></p><p><a href="https://book.douban.com/subject/35006892/" target="_blank" rel="noopener">豆瓣链接</a></p><blockquote><ul><li>《程序员修炼之道-通向务实的最高境界》</li><li>著: (美）David Thomas（大卫·托马斯），Andrew Hunt（安德鲁·亨特）</li><li>译: 云风</li></ul></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/view/subject/s/public/s33607450.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://book.douban.com/subject/35006892
+      
+    
+    </summary>
+    
+    
+      <category term="读书" scheme="https://armszhou.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="计算机" scheme="https://armszhou.github.io/categories/%E8%AF%BB%E4%B9%A6/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+  </entry>
+  
+</feed>
